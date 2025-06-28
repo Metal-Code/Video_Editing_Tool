@@ -9,11 +9,9 @@ git+https://github.com/openai/whisper.git
 moviepy
 streamlit-drawable-canvas
 google-generativeai
-whisper
 numpy
 transformers
 tensorflow
 matplotlib
 scikit-learn
 librosa
-
